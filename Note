@@ -14,3 +14,6 @@ https://blog.csdn.net/zt15732625878/article/details/78941268
 Load balancing
 https://mp.weixin.qq.com/s/a6RUhwUxTW5iW_3PPqzaPg
 OSI模型有7层结构，每层都可以有几个子层。 OSI的7层从上到下分别是 7、应用层；6、表示层；5、会话层；4、传输层；3、网络层；2、数据链路层；1、物理层；
+
+Python Resources :
+pip install  -i https://pypi.tuna.tsinghua.edu.cn/simple XXXXXXX
